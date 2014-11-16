@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: hudson
+Build-Jdk: 1.5.0_12
+Implementation-Title: jersey-core
+Implementation-Version: 0.11-ea-SNAPSHOT
+Implementation-Vendor-Id: com.sun.jersey
+Implementation-Vendor: Sun Microsystems, Inc
+Build-Id: 0.11-ea-SNAPSHOT 09/24/2008 04:59 AM
+
